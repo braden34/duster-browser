@@ -14,3 +14,5 @@ based off of leaf browser
 9. hit load unpacked
 10. click on dusters browser v3
 11. done
+
+if you have any questions send me an email at: braden.walker@dusters.org
