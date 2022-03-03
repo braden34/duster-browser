@@ -1,10 +1,11 @@
 # duster-browser
 based off of leaf browser
 
-1. download
-2. go to files
-3. open .zip file
-4. click and drag duster browser (1) into My Files
+1. hit code
+2. hit download zip
+3. go to files
+4. open .zip file
+5. click and drag duster browser (1) into My Files
 
 5. go to chrome
 6. hit puzzle peace in top right
